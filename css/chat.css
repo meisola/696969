@@ -1,0 +1,88 @@
+body
+{
+background-image:url(../img/vmotkNx.jpg);
+
+
+}
+.mdl-card__title{
+background-color:#EDD38F;
+ text-align: center;
+
+}
+.mdl-card{
+
+
+ margin-left: auto;
+  margin-right:auto;
+  margin-top: 15px;
+
+}
+#example-message
+{
+
+background-color: (0,0,0,50);
+padding: 150px;
+
+
+
+}
+.mine{
+margin-left: 5px;
+margin-right: 5px;
+
+}
+.usermessage{
+  margin-left: 5px;
+
+
+}
+
+ul .example-chat-username {
+    margin-right: 10px;
+}
+.message-pic{
+width: 30px;
+height:30px;
+}
+#password{
+    -webkit-text-security: disc;
+}
+.mdl-button{
+  background-color:#EDD38F;
+  color:#FB9F89;
+}
+#btnSignIn{
+  margin-top: 30px;
+}
+#btnSignUp{
+  margin-top: 30px;
+}
+#btnSignOut{
+  margin-top: 30px;
+  color: #69AA9C;
+}
+ul{
+  list-style: none;
+}
+.demo-avatar {
+    width: 65px;
+    height: 65px;
+    padding: 0px;
+    margin-left: 38px;
+}
+#example-messages li{
+
+margin-top: 10px;
+color: black;
+
+}
+
+.mine{
+text-align: right;
+margin-right: 20px;
+}
+
+ul li {
+    font-weight: 300;
+    margin-bottom: 10px;
+}
